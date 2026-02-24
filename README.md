@@ -171,7 +171,7 @@ Training was performed on the reduced training subset to improve computational e
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/https://github.com/SyedHussain23/customer-transaction-prediction
+git clone https://github.com/SyedHussain23/customer-transaction-prediction
 cd customer-transaction-prediction
 pip install pandas numpy scikit-learn requests
 jupyter notebook customer-transaction-prediction.ipynb
